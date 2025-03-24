@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">🚀 Hi there, I'm <span style="font-family: 'Poppins', sans-serif; font-weight: 800; color: #FF5733;">Ankit Singh</span>! 👋</h1>
 
 ---
@@ -18,7 +17,7 @@
 </ul>
 
 ---
-
+<!--
 <h2>📌 Featured Projects</h2>
 <ul>
   <li><h3>📊 Loan Eligibility Prediction</h3>
@@ -52,6 +51,7 @@
     </ul>
   </li>
 </ul>
+-->
 
 ---
 
@@ -77,7 +77,7 @@
 
 <h2>📫 Let's Connect!</h2>
 <p style="font-size: 16px; font-family: 'Roboto', sans-serif; text-align: center;">
-  🔗 <a href="#" style="color: #FF5733; font-weight: bold;">LinkedIn</a> | 💻 <a href="#" style="color: #FF5733; font-weight: bold;">GitHub</a> | ✉️ <a href="mailto:ankitsinghas0034839@gmail.com" style="color: #FF5733; font-weight: bold;">Email Me</a>
+  🔗 <a href="www.linkedin.com/in/ankit-singh-09929a1a3" style="color: #FF5733; font-weight: bold;">LinkedIn</a> | 💻 <a href="https://github.com/ankitsingh32/ankitsingh32" style="color: #FF5733; font-weight: bold;">GitHub</a> | ✉️ <a href="mailto:ankitsinghas0034839@gmail.com" style="color: #FF5733; font-weight: bold;">Email Me</a>
 </p>
 
 ---
