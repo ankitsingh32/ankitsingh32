@@ -1,6 +1,8 @@
-![Profile Views](https://komarev.com/ghpvc/?username=ankitsingh32&color=blue)
-![Profile Views](https://gpvc.arturio.dev/ankitsingh32)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitsingh32&show_icons=true&theme=radical)
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=ankitsingh32&color=blue" alt="Profile Views" />
+</p>
+ <!--
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitsingh32&show_icons=true&theme=radical) -->
 
 <h1 align="center">🚀 Hi there, I'm <span style="font-family: 'Poppins', sans-serif; font-weight: 800; color: #FF5733;">Ankit Singh</span>! 👋</h1>
 
