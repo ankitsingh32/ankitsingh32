@@ -8,7 +8,7 @@
 ---
 
 <h2>💡 About Me</h2>
-<p align="justify" style="font-family: 'Roboto', sans-serif; font-size: 16px; color: #444;">I am a passionate and detail-oriented <strong>Computer Science Engineer</strong> with expertise in <strong>Data Science, Machine Learning, and Artificial Intelligence</strong>. I thrive on solving complex challenges through <strong>data analysis, predictive modeling, and visualization</strong>. Currently, I have completed my <strong>B.Tech in Computer Science Engineering</strong> at <strong>Babu Banarasi Das Engineering College</strong> 
+<p align="justify" style="font-family: 'Roboto', sans-serif; font-size: 16px; color: #444;">I am a passionate and detail-oriented <strong>Computer Science Engineer</strong> with expertise in <strong>Data Science, Machine Learning, and Artificial Intelligence</strong>. I thrive on solving complex challenges through <strong>data analysis, predictive modeling, and visualization</strong>. Currently, I have completed my <strong>B.Tech in Computer Science Engineering</strong> at <strong>Babu Banarasi Das Engineering College</strong> (Lucknow: <em> 2025</em>).</p>
 
 ---
 
